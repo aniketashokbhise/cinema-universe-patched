@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/api/*"
+  to = "https://cinema-universe-patched.onrender.com/api/:splat"
+  status = 200
+  force = true
