@@ -52,8 +52,8 @@ Click the **"Admin →"** button in the top-right corner.
 
 | Field    | Value                  |
 |----------|------------------------|
-| Email    | `admin@moviedb.com`    |
-| Password | `admin123`             |
+| Email    | `admin@mob.com`    |
+| Password | `admin`             |
 
 ---
 
