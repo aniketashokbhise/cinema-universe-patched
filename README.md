@@ -5,6 +5,10 @@ A full-stack movie search web application with admin dashboard, download permiss
 
 ---
 
+# Live demo
+
+https://cinema-universes.netlify.app/
+
 ## ⚡ Quick Start
 
 ### 1. Set your MongoDB password
